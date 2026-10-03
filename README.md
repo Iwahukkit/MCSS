@@ -10,6 +10,7 @@ A HCF-Style Minecraft Screenshare plugin to use on your servers!
 [![STARS](https://img.shields.io/github/stars/Iwahukkit/MCSS)](https://github.com/Iwahukkit/MCSS/)
 
 </div>
+
 # Features
 
 Bans when logging out while ss
