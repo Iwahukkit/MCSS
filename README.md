@@ -8,6 +8,9 @@ A HCF-Style Minecraft Screenshare plugin to use on your servers!
 [![LICENSE](https://img.shields.io/badge/License-AGPLv3.0-blue)](https://github.com/Iwahukkit/StuckHelper/blob/main/LICENSE)
 [![JAVA](https://img.shields.io/badge/Java-1.8-blue)](https://www.java.com/tr/)
 [![STARS](https://img.shields.io/github/stars/Iwahukkit/MCSS)](https://github.com/Iwahukkit/MCSS/)
+[![BukkitDevD](https://img.shields.io/curseforge/dt/1676293?label=Bukkit%20Downloads&style=flat&color=blue)](https://dev.bukkit.org/projects/iwahusknockbackchanger)
+[![Spigot](https://img.shields.io/spiget/downloads/138427?style=flat&logo=spigotmc&label=Downloads)](https://www.spigotmc.org/resources/mcss.139331/)
+[![Release](https://img.shields.io/badge/Release-1.0-blue)](https://github.com/Iwahukkit/MCSS/releases/tag/1.0)
 
 </div>
 
