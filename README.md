@@ -1,7 +1,9 @@
 <div align="center">
   
 ![MCSS](https://github.com/Iwahukkit/MCSS/blob/main/mcss.png)
+
 A HCF-Style Minecraft Screenshare plugin to use on your servers!
+
 [![CRAFTBUKKIT](https://img.shields.io/badge/CraftBukkit-1.8x-ea7233)]()
 [![LICENSE](https://img.shields.io/badge/License-AGPLv3.0-blue)](https://github.com/Iwahukkit/StuckHelper/blob/main/LICENSE)
 [![JAVA](https://img.shields.io/badge/Java-1.8-blue)](https://www.java.com/tr/)
