@@ -4,8 +4,10 @@ A HCF-Style Minecraft Screenshare plugin to use on your servers!
 # Features
 
 Bans when logging out while ss
+
 Alert on Chat
-Players gets frozen and having an anti damage(even when explosions)
+
+Frozening players
 
 # Usages
 ```
