@@ -1,4 +1,4 @@
-# MCSS
+![MCSS](https://github.com/Iwahukkit/MCSS/blob/main/mcss.png)
 A HCF-Style Minecraft Screenshare plugin to use on your servers!
 
 # Features
