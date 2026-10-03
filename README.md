@@ -1,7 +1,19 @@
 # MCSS
 A HCF-Style Minecraft Screenshare plugin to use on your servers!
 
-# How to use it
+# Features
+
+Bans when logging out while ss
+Alert on Chat
+Players gets frozen and having an anti damage(even when explosions)
+
+# Usages
+```
+/ss
+/freeze
+/unfreeze
+```
+# Installation
 
 Use Maven 3 to build or just download from releases and
 modify it through the config
