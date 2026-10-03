@@ -1,0 +1,32 @@
+name: MCSS
+version: 1.0
+main: me.iwahu.mcss.MCSS
+author: iwahu
+
+commands:
+  ss:
+    description: Puts a player into screenshare and freezes them.
+    usage: /ss <player>
+    permission: mcss.staff
+    permission-message: "§cYou do not have permission to execute this command!"
+    aliases: [freeze, screenshare]
+  unfreeze:
+    description: Unfreezes a player and releases them from screenshare.
+    usage: /unfreeze <player>
+    permission: mcss.staff
+    permission-message: "§cYou do not have permission to execute this command!"
+    aliases: [unss]
+  mcss:
+    description: MCSS plugin info and management command.
+    usage: /mcss
+    permission: mcss.admin
+    permission-message: "§cYou do not have permission to execute this command!"
+    aliases: [mcssreload]
+
+permissions:
+  mcss.staff:
+    description: Permission to freeze players and put them into screenshare.
+    default: op
+  mcss.admin:
+    description: Permission to manage and reload the MCSS plugin.
+    default: op
